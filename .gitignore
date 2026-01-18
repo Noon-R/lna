@@ -1,0 +1,58 @@
+# Unity
+unity/*.csproj
+unity/*.unityproj
+unity/*.sln
+unity/*.suo
+unity/*.user
+unity/*.userprefs
+unity/*.pidb
+unity/*.booproj
+unity/Library/
+unity/Temp/
+unity/Obj/
+unity/Build/
+unity/Builds/
+unity/Logs/
+unity/UserSettings/
+unity/.vs/
+
+# Godot
+godot/.import/
+godot/export.cfg
+godot/export_presets.cfg
+godot/.mono/
+godot/data_*/
+godot/*.translation
+
+# Playdate
+playdate/*.pdx
+playdate/*.bin
+playdate/*.elf
+playdate/build/
+playdate/*.o
+playdate/*.d
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
